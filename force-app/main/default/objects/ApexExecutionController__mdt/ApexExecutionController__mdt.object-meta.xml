@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This metadata is created to skip the trigger for specific objects and also for all/specific users.</description>
+    <label>ApexExecutionController</label>
+    <pluralLabel>ApexExecutionControllers</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
